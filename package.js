@@ -14,5 +14,5 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-  'algolia-search': '1.7.0'
+  'algolia-search': '1.6.2'
 });
